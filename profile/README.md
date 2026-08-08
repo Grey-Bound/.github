@@ -2,9 +2,9 @@
 
 **Bitcoin Engineering & Research**
 
-GreyBound is a Bitcoin engineering and R&D company.
+GreyBound is an engineering company focused on building, securing, and scaling production systems for Bitcoin products.
 
-We build secure, reliable, and production-ready Bitcoin infrastructure while investing in research, open-source software, and long-term engineering assets.
+We work with teams building wallets, payment systems, infrastructure, and backend services. We combine hands-on engineering with practical security and production readiness work.
 
 ### Focus Areas
 
